@@ -1,0 +1,4 @@
+
+<main>
+<img src="https://bit.ly/fcc-relaxing-cat" alt="Author standing on a beach with two thumbs up.">
+</main>
